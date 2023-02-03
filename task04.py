@@ -1,4 +1,4 @@
-revenue = int (input('Введите вуручку Вашей фирмы: '))
+revenue = int (input('Введите выручку Вашей фирмы: '))
 costs = int (input('Введите издержки Вашей фирмы: '))
 worker = int (input('Введите количестко сотрудников Вашей фирмы: '))
 result = (revenue - costs)
