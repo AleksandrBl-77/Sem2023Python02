@@ -16,6 +16,7 @@ while True:
             print('Цена должна быть указанна. Попробуйте еще раз: ')
             continue
 
+
         price = int(tmp)
 
     if amount is None:
